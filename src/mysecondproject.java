@@ -13,7 +13,8 @@ public class mysecondproject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.print("hello again world !");
+        int x = 25 - 5 * 4 / 2 - 10 + 4;
+       System.out.print("hello again world !" + x);
  
          
     }
